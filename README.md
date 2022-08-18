@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi everyone, welcome to my repository, 
-I'm interest in developing application especially in Frontedn with React JS , Vue JS and Flutter
+I'm interest in developing application especially in Frontend with React JS , Vue JS and Flutter
 
 - 🎓 Undergraduate Information System Student @Telkom University - 2018
 - 🌱 I’m currently learning : React JS, Nuxt JS and Flutter.
@@ -9,4 +9,4 @@ I'm interest in developing application especially in Frontedn with React JS , Vu
 - 🔭 Open for Project :)  
 
 You can find me on:
-<!-- <br>[LinkedIn](https://www.linkedin.com/in/yessypermatasari/) -->
+<br>[LinkedIn](https://www.linkedin.com/in/yessypermatasari/) 
